@@ -1,4 +1,6 @@
 /*BEGIN PS5 Controller Styling*/
+@import url("https://github.com/WalterMR/Controles/blob/main/ps5-controller/ps5-base64.css")
+@import url("https://github.com/WalterMR/Controles/blob/main/ps5-controller/ps5-base64.css")
 .controller.ds5 {
     background: url(base.svg);
     height: 598px;
